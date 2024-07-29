@@ -1,0 +1,9 @@
+Requirement already satisfied: pip in ./.venv/lib/python3.11/site-packages (24.0)
+Collecting wheel
+  Using cached wheel-0.43.0-py3-none-any.whl.metadata (2.2 kB)
+Collecting setuptools
+  Using cached setuptools-70.0.0-py3-none-any.whl.metadata (5.9 kB)
+Using cached wheel-0.43.0-py3-none-any.whl (65 kB)
+Using cached setuptools-70.0.0-py3-none-any.whl (863 kB)
+Installing collected packages: wheel, setuptools
+Successfully installed setuptools-70.0.0 wheel-0.43.0

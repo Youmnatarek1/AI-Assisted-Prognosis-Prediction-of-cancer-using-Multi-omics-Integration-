@@ -1,3 +1,1 @@
-# AI-Assisted-Prognosis-Prediction-of-cancer-using-Multi-omics-Integration-
-
-This study presents an integrated approach using Multi-Omics Factor Analysis (MOFA) to analyze RNA, miRNA, and DNA methylation data from The Cancer Genome Atlas (TCGA) for stomach adenocarcinoma. The methodology ensures data accuracy and consistency through careful preparation and normalization. Applying the MOFA framework reveals latent patterns and interactions, providing insights into the molecular mechanisms of the disease. Predictive models, including XG-Boost, Random Forest, Support Vector Machine (SVM), and Logistic Regression, were developed to predict patient prognosis. The SVM model outperforms others with a test set accuracy of 0.934. The findings highlight the potential of advanced machine learning techniques combined with multi-omics data to improve cancer outcome prediction and understanding.
+# graduation
